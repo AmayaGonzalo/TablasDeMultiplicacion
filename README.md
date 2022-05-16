@@ -1,2 +1,2 @@
-# TablasDeMultiplicacion
+# SumaEntreNumeros
 Created with CodeSandbox
